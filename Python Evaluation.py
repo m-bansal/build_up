@@ -1,0 +1,2 @@
+stmt = input()
+eval(stmt)
